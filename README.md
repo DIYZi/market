@@ -15,7 +15,6 @@
 | <img src="./images/IO8X.jpg" alt="IO8x" width="400"/> | [**IO8x**](https://github.com/DIYZi/RFS_CC2652_IO8X/wiki) | Zigbee 8х канальный модуль ввода/вывода  | 3000 |
 | <img src="./images/USBSW.jpg" alt="USBsw" width="400"/> | [**USBsw**](https://teletype.in/@novgorod_diyzi/USBswitch) | Zigbee выключатель DIY&Zi USB switch, коммутация 5V и ток до 1.5А(cc2530 E-byte)  | 1200 |
 | <img src="./images/R2X.jpg" alt="R2x" width="400"/> | [**R2x**](https://teletype.in/@novgorod_diyzi/r2xBI) | Zigbee реле 2х канальное бистабильное (cc2652 DIY), коммутируемый ток до 3A 30VDC / 1A 125VAC,  | 1600 |
-| <img src="./images/pad.jpg" alt="PAD" width="400"/> | [**PAD20x**](https://teletype.in/@novgorod_diyzi/freepad) | Zigbee пульт 20 больших съёмных кнопок, разработка Модкам(cc2530 E-byte) питание от CR2032  | 1200 |
 | <img src="./images/watermeter.jpg" alt="watermeter" width="400"/> | [**Watermeter**](https://github.com/DIYZi/ZTU_WM_V2/wiki) | Zigbee счетчик импульсов V2.2 на базе Zigbee модуля Telink TLSR8258, питание 2хАА  | 2000 |
 | <img src="./images/LEAK.jpg" alt="leak" width="400"/> | [**LEAK**](https://aliexpress.ru/wholesale?SearchText=sensor+leak+1+metr) | сенсор протечки воды 12-24В 1 метр | 100 |
 | <img src="./images/co2.jpg" alt="CO2" width="400"/> | [**CO2/VOC**](https://github.com/DIYZi/RFS_CC2652_CO2/wiki) | Zigbee датчик CO2/VOC CC2652  | 4000 |
