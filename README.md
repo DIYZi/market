@@ -20,7 +20,7 @@
 | <img src="./images/LEAK.jpg" alt="leak" width="400"/> | [**LEAK**](https://aliexpress.ru/wholesale?SearchText=sensor+leak+1+metr) | сенсор протечки воды 12-24В 1 метр | 100 |
 | <img src="./images/co2.jpg" alt="CO2" width="400"/> | [**CO2/VOC**](https://github.com/DIYZi/RFS_CC2652_CO2/wiki) | Zigbee датчик CO2/VOC CC2652  | 4000 |
 | <img src="./images/DS8x.jpg" alt="DS8x" width="400"/> | [**DS8x**](https://github.com/DIYZi/RFS_CC2652_DS8X/wiki) | Zigbee датчик температуры 8х канальный DS18B20 CC2652  | 2200 |
-| <img src="./images/ds18b20.jpg" alt="DS18B20" width="400"/> | [**DS18B20**](https://aliexpress.ru/wholesale?SearchText=DS18B20) | сенсор температуры DS18B20  | 250/300/350 |
+| <img src="./images/ds18b20.jpg" alt="DS18B20" width="400"/> | [**DS18B20**](https://aliexpress.ru/wholesale?SearchText=DS18B20) | сенсор температуры DS18B20 1/2/3 метра | 250/300/350 |
 |  |  |  |  |
 
 ---
