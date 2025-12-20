@@ -13,7 +13,7 @@
 | <img src="./images/DEV2652.jpg" alt="dev2652" width="400"/> | [**DEV2652**](https://github.com/deaxx/cc2652p_board) | Zigbee dev_board Deaxx (сс2652 E-byte), прошивается без программатора через порт USB Type C. Для изготовления своих DIY zigbee устройств.  | 2200 |
 | <img src="./images/DEV2530.jpg" alt="dev2530" width="400"/> | [**DEV2530**](https://kasito.ru/universalnyj-zigbee-modul-s-batarejnym-pitaniem-na-osnove-e18-ms1-pcb/) | Zigbee Dev_board Kasito (cc2530 E-byte). Для изготовления своих DIY zigbee устройств.  | 600/1000 |
 | <img src="./images/DEBUG.jpg" alt="debugger" width="400"/> | [**SmartRF04EB**](https://aliexpress.ru/wholesale?SearchText=SmartRF04EB) | программатор для zigbee чипов CC2530  | 600 |
-| <img src="./images/IO8X.jpg" alt="IO8x" width="400"/> | [**IO8x**](https://github.com/DIYZi/RFS_CC2652_IO8X/wiki) | Zigbee 8х канальный модуль ввода/вывода  | 3000 |
+| <img src="./images/IO8X.jpg" alt="IO8x" width="400"/> | [**IO8x**](https://github.com/DIYZi/RFS_CC2652_IO8X/wiki) | Zigbee 8х канальный модуль ввода/вывода  | 3200 |
 | <img src="./images/USBSW.jpg" alt="USBsw" width="400"/> | [**USBsw**](https://teletype.in/@novgorod_diyzi/USBswitch) | Zigbee выключатель DIY&Zi USB switch, коммутация 5V и ток до 1.5А(cc2530 E-byte)  | 1200 |
 | <img src="./images/R2X.jpg" alt="R2x" width="400"/> | [**R2x**](https://teletype.in/@novgorod_diyzi/r2xBI) | Zigbee реле 2х канальное бистабильное (cc2652 DIY), коммутируемый ток до 3A 30VDC / 1A 125VAC,  | 1600 |
 | <img src="./images/watermeter.jpg" alt="watermeter" width="400"/> | [**Watermeter**](https://github.com/DIYZi/ZTU_WM_V2/wiki) | Zigbee счетчик импульсов V2.2 на базе Zigbee модуля Telink TLSR8258, питание 2хАА  | 2000 |
